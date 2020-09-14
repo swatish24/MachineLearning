@@ -1,0 +1,6 @@
+	hamming_distance	edit_distance	
+K=11	0.76±0.01	0.83±0.01	
+K=13	0.77±0.01	0.82±0.01	
+K=15	0.77±0.01	0.82±0.01	
+K=17	0.77±0.01	0.82±0.01	
+Model Chosen: K=11, edit_distance
